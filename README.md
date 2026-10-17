@@ -1,5 +1,9 @@
 ## Hi there 👋
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name;Full-Stack+Developer;Building+cool+things+with+code)](https://github.com/YOUR_USERNAME)
+
+</div>
 <!--
 **Sai-Madhav-05/Sai-Madhav-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
